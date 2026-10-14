@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="900" height="500" rx="14" fill="#0d1117"/>
+<line x1="210" y1="239.0" x2="230" y2="239.0" stroke="#6e7681" stroke-width="2"/>
+<line x1="400" y1="239.0" x2="470" y2="59.0" stroke="#6e7681" stroke-width="2"/>
+<line x1="400" y1="239.0" x2="470" y2="144.0" stroke="#6e7681" stroke-width="2"/>
+<line x1="400" y1="239.0" x2="470" y2="229.0" stroke="#6e7681" stroke-width="2"/>
+<line x1="400" y1="239.0" x2="470" y2="339.0" stroke="#6e7681" stroke-width="2"/>
+<line x1="400" y1="239.0" x2="470" y2="424.0" stroke="#6e7681" stroke-width="2"/>
+<line x1="640" y1="229.0" x2="710" y2="154.0" stroke="#6e7681" stroke-width="2"/>
+<line x1="640" y1="229.0" x2="710" y2="234.0" stroke="#6e7681" stroke-width="2"/>
+<line x1="640" y1="339.0" x2="710" y2="339.0" stroke="#6e7681" stroke-width="2"/>
+<rect x="40" y="210" width="170" height="58" rx="10" fill="#161b22" stroke="#d29922" stroke-width="1.5"/><text x="125.0" y="234" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Foyer</text><text x="125.0" y="254" text-anchor="middle" fill="#8b949e" font-size="12">start</text>
+<rect x="230" y="210" width="170" height="58" rx="10" fill="#161b22" stroke="#6e7681" stroke-width="1.5"/><text x="315.0" y="234" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Great Hall</text><text x="315.0" y="254" text-anchor="middle" fill="#8b949e" font-size="12">hub</text>
+<rect x="470" y="30" width="170" height="58" rx="10" fill="#161b22" stroke="#6e7681" stroke-width="1.5"/><text x="555.0" y="54" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Library</text><text x="555.0" y="74" text-anchor="middle" fill="#8b949e" font-size="12">Rope, Old Map</text>
+<rect x="470" y="115" width="170" height="58" rx="10" fill="#161b22" stroke="#6e7681" stroke-width="1.5"/><text x="555.0" y="139" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Armory</text><text x="555.0" y="159" text-anchor="middle" fill="#8b949e" font-size="12">Sword, Golden Key</text>
+<rect x="470" y="200" width="170" height="58" rx="10" fill="#161b22" stroke="#6e7681" stroke-width="1.5"/><text x="555.0" y="224" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Courtyard</text>
+<rect x="470" y="310" width="170" height="58" rx="10" fill="#161b22" stroke="#6e7681" stroke-width="1.5"/><text x="555.0" y="334" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Tower Foot</text>
+<rect x="470" y="395" width="170" height="58" rx="10" fill="#161b22" stroke="#f85149" stroke-width="1.5"/><text x="555.0" y="419" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Dungeon</text><text x="555.0" y="439" text-anchor="middle" fill="#8b949e" font-size="12">Mysterious Coin</text>
+<rect x="710" y="125" width="170" height="58" rx="10" fill="#161b22" stroke="#6e7681" stroke-width="1.5"/><text x="795.0" y="149" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Garden</text><text x="795.0" y="169" text-anchor="middle" fill="#8b949e" font-size="12">Shield, Lantern</text>
+<rect x="710" y="205" width="170" height="58" rx="10" fill="#161b22" stroke="#f85149" stroke-width="1.5"/><text x="795.0" y="229" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Ravine</text><text x="795.0" y="249" text-anchor="middle" fill="#8b949e" font-size="12">needs Rope</text>
+<rect x="710" y="310" width="170" height="58" rx="10" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/><text x="795.0" y="334" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="600">Tower Top</text><text x="795.0" y="354" text-anchor="middle" fill="#8b949e" font-size="12">the chest</text>
+<text x="654" y="430" fill="#f85149" font-size="12">needs Lantern</text>
+<text x="795.0" y="388" text-anchor="middle" fill="#3fb950" font-size="12">needs Sword, then Golden Key</text>
+<rect x="40" y="469" width="12" height="12" rx="3" fill="none" stroke="#d29922" stroke-width="2"/><text x="58" y="480" fill="#8b949e" font-size="12">start</text>
+<rect x="120" y="469" width="12" height="12" rx="3" fill="none" stroke="#f85149" stroke-width="2"/><text x="138" y="480" fill="#8b949e" font-size="12">gated, deadly without the item</text>
+<rect x="340" y="469" width="12" height="12" rx="3" fill="none" stroke="#3fb950" stroke-width="2"/><text x="358" y="480" fill="#8b949e" font-size="12">goal</text>
+<text x="560" y="480" fill="#8b949e" font-size="12">Every link works in both directions.</text>
+</svg>
