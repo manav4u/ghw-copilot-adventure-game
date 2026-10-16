@@ -90,7 +90,7 @@ def pause():
 
 def show_header():
     print("=" * 78)
-    print("ANCIENT MANOR: A CHOOSE-YOUR-OWN-ADVENTURE".center(78))
+    print("MANOR ESCAPE: A CHOOSE-YOUR-OWN-ADVENTURE".center(78))
     print("=" * 78)
 
 
